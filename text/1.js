@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         nana
 // @namespace    org.sessx6cf.etw360ff
-// @version      2024-08-11
+// @version      2024-08-13
 // @description  hello，world
 // @author       joke
 // @match        https://teacher.ewt360.com/ewtbend/bend/index/index.html
@@ -13,6 +13,6 @@
 (function() {
     'use strict';
 
-    console.log('hello,world');
+    console.log('hello,new,world');
     
 })();
